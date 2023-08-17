@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-17T10:28:14.837Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="fkAGUu_WJXGRFrLMl06y" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-17T10:28:40.423Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="qzEntn6otCi8EKqZ7drJ" version="21.6.8" type="github">
   <diagram name="Global Overview" id="m-1QY2oT3l0n69f6nNiI">
     <mxGraphModel dx="2815" dy="2872" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#000000" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="10" y="-1100" width="260" height="180" as="geometry" />
         </mxCell>
         <mxCell id="ImhGzAs-u86jqNpPHCjo-3" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;HIsarna.Standard.Services&lt;br&gt;(Interface definition only)&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
-          <mxGeometry x="10" y="-709.46" width="260" height="180" as="geometry" />
+          <mxGeometry x="10" y="-714" width="268" height="184.54" as="geometry" />
         </mxCell>
         <mxCell id="ImhGzAs-u86jqNpPHCjo-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;strokeColor=#F2F2F2;curved=1;" parent="1" source="ImhGzAs-u86jqNpPHCjo-7" target="ImhGzAs-u86jqNpPHCjo-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
