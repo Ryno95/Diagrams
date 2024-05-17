@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2024-05-17T11:26:33.746Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" version="24.4.4" etag="JhEIe9jd2E33iiSKffbs" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-17T11:33:45.507Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="X0Qh0jqSyxNSS6iF3xY3" version="24.4.4" type="github">
   <diagram name="Pagina-1" id="mwvZFhLqi_4R-zlfRmPy">
-    <mxGraphModel>
+    <mxGraphModel dx="1274" dy="737" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lm-91KbfVehlCaEgiLmT-1" value="&lt;font color=&quot;#000000&quot;&gt;Application.Security.Management&lt;/font&gt;" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#028090;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#E4FDE1;fillColor=#F45B69;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="257" y="89" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lm-91KbfVehlCaEgiLmT-2" value="&lt;font color=&quot;#000000&quot;&gt;Application.Security&lt;/font&gt;" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#028090;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#E4FDE1;fillColor=#F45B69;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="257" y="398" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lm-91KbfVehlCaEgiLmT-3" value="&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#000000&quot;&gt;Utils.Mvc&lt;/font&gt;" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#028090;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#E4FDE1;fillColor=#F45B69;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="260" y="291" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lm-91KbfVehlCaEgiLmT-4" value="&lt;font color=&quot;#000000&quot;&gt;Utils.AD&lt;/font&gt;" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#028090;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#E4FDE1;fillColor=#F45B69;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="260" y="179" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lm-91KbfVehlCaEgiLmT-5" value="Active Directory" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#028090;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#000000;fillColor=#F45B69;" vertex="1" parent="1">
+          <mxGeometry x="596" y="206" width="109" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="lm-91KbfVehlCaEgiLmT-6" value="&lt;div&gt;HIsarna.Core&lt;/div&gt;&lt;div&gt;(CoreCOntext)&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#028090;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#000000;fillColor=#F45B69;" vertex="1" parent="1">
+          <mxGeometry x="600.5" y="357" width="112.5" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
